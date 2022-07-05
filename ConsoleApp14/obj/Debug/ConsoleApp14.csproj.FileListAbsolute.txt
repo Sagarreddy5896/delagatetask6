@@ -1,0 +1,8 @@
+S:\.NET\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+S:\.NET\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+S:\.NET\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+S:\.NET\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+S:\.NET\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.SuggestedBindingRedirects.cache
+S:\.NET\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+S:\.NET\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+S:\.NET\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
